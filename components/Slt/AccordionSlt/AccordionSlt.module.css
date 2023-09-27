@@ -1,0 +1,43 @@
+
+
+.information {
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 80%;
+
+}
+
+.toggleButton {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #d3d3d3;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+
+.textArea {
+    margin-top: 10px;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: opacity 0.3s, max-height 0.3s;
+}
+
+.arrow{
+    display: inline-block;
+    color: #a9a7a7;
+    transform: rotate(90deg);
+}
+.rotate {
+    transform: rotate(270deg);
+
+}
+

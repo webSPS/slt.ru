@@ -1,0 +1,49 @@
+.image {
+    width: 100%;
+    object-fit: contain;
+    object-position: top;
+    height: auto;
+}
+
+.write {
+    background: #a85353;
+    height: 500px;
+}
+
+.h1 {
+    text-align: center;
+    margin: 15px;
+}
+
+.DivInformation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.p {
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+
+.a {
+    color: blue;
+    cursor: pointer;
+}
+
+.li {
+    margin: 10px;
+}
+
+.map {
+   display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
